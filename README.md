@@ -4,12 +4,12 @@ Projeto de Matemática Discreta em Java
 ## Descrição
 Projeto desenvolvido na disciplina de Algoritmo e Estrutura de Dados, utilizando Java.
 
-#Autores:
-1-Levi Manuel Alberto
-2-Afonso Orlando Pedro
-3-Henriques Avelino Vieira 
-4-Miguel Alberto Vila
-5-
+Autores:
+- Levi Manuel Alberto
+- Afonso Orlando Pedro
+- Henriques Avelino Vieira 
+- Miguel Alberto Vila
+
 
 ## Algoritmos implementados
 
