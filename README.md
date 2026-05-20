@@ -1,5 +1,4 @@
 # algoritmos-dos-numeros-java
-Projeto de Matemática Discreta em Java
 
 ## Descrição
 Projeto desenvolvido na disciplina de Algoritmo e Estrutura de Dados, utilizando Java.
