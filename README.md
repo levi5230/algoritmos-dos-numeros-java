@@ -8,6 +8,7 @@ Autores:
 - Afonso Orlando Pedro
 - Henriques Avelino Vieira 
 - Miguel Alberto Vila
+- Dilolo Equial Pedro
 
 
 ## Algoritmos implementados
